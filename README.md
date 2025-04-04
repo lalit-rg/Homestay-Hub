@@ -1,6 +1,4 @@
-Here's a **README.md** file for your project that summarizes its key aspects and functionalities.  
 
----
 
 # **Homestay Hub**  
 
